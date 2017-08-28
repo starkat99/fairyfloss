@@ -1,0 +1,22 @@
+{
+    "name": "fairyfloss",
+    "displayName": "fairyfloss",
+    "description": "Fairyfloss theme",
+    "version": "0.0.1",
+    "publisher": "starkat99",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fairyfloss",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fairyfloss-color-theme.json"
+            }
+        ]
+    }
+}
